@@ -1,5 +1,5 @@
-# Andi_Portofolio
-This is my portofolio project data science, with python programming.
+# Andi Ainun Najib Portfolio
+Hi Welcome to my portfolio, This is my portofolio project data science, data analyst.
 
 
 # [Project 1: Data Science Health Insurance Cross Sell Prediction![image](https://user-images.githubusercontent.com/85381045/141938075-e8159ed8-160c-4995-a92a-be9c7fe38380.png)](https://github.com/andiainunnajib/Data-science-project-healt-insurance) 
