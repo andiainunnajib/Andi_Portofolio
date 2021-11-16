@@ -8,3 +8,11 @@ This is my portofolio project data science, with python programming.
 * Find EDA in datasets to get insight valuable data
 * Plan a communication strategy to reach those customers and optimize the business model.
 * Focused to Purchase Rate
+
+
+# [Project 2: Analyst Data Covid 19 With Time series!](https://github.com/andiainunnajib/Data-science-project-healt-insurance) 
+* Created a prediction to prredict customer that interested in product ansurance
+* Build a model to predict whether policyholders (customers) from last year will also be interested in the Vehicle Insurance provided by the company.
+* Find EDA in datasets to get insight valuable data
+* Plan a communication strategy to reach those customers and optimize the business model.
+* Focused to Purchase Rate
