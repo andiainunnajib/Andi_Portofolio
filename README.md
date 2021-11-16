@@ -13,9 +13,10 @@ This is my portofolio project data science, with python programming.
 ![image](https://user-images.githubusercontent.com/85381045/141941629-791c637e-b55b-48bf-a6d0-2b3132387af1.png)
 ![image](https://user-images.githubusercontent.com/85381045/141941653-4055ddf9-9d87-48d4-a81e-60b580964c15.png)
 
-# [Project 2: Analyst Data Covid 19 With Time series!](https://github.com/andiainunnajib/Data-science-project-healt-insurance) 
-* Created a prediction to prredict customer that interested in product ansurance
-* Build a model to predict whether policyholders (customers) from last year will also be interested in the Vehicle Insurance provided by the company.
-* Find EDA in datasets to get insight valuable data
-* Plan a communication strategy to reach those customers and optimize the business model.
-* Focused to Purchase Rate
+# [Project 2: Analyst Data Covid 19 With Time series!](https://github.com/andiainunnajib/Analyst-data-covid-19) 
+* Created a Analysist covid-19 in 2020-2021 (Using python and html)
+* Make visualizastion data time series
+* Using html to make dashboard visualization data 
+*![perprovinsi](https://user-images.githubusercontent.com/85381045/141943607-7c42d7e0-8ad6-482f-9aa5-c5bf349bff5a.jpg)
+
+
