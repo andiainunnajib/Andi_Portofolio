@@ -1,4 +1,5 @@
 # Andi_Portofolio
+![IMG_20191023_154644_723](https://user-images.githubusercontent.com/85381045/141942152-76a48db5-ab9d-4511-9437-8c9988cd85c1.jpg)
 This is my portofolio project data science, with python programming.
 
 
