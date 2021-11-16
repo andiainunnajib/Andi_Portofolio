@@ -9,9 +9,7 @@ This is my portofolio project data science, with python programming.
 * Plan a communication strategy to reach those customers and optimize the business model.
 * Focused to Purchase Rate
 
-![image](https://user-images.githubusercontent.com/85381045/141941583-89d2a916-c98e-482e-8a9b-2a88ddca79ce.png)
-![image](https://user-images.githubusercontent.com/85381045/141941629-791c637e-b55b-48bf-a6d0-2b3132387af1.png)
-![image](https://user-images.githubusercontent.com/85381045/141941653-4055ddf9-9d87-48d4-a81e-60b580964c15.png)
+![image](https://user-images.githubusercontent.com/85381045/141941583-89d2a916-c98e-482e-8a9b-2a88ddca79ce.png) ![image](https://user-images.githubusercontent.com/85381045/141941629-791c637e-b55b-48bf-a6d0-2b3132387af1.png) ![image](https://user-images.githubusercontent.com/85381045/141941653-4055ddf9-9d87-48d4-a81e-60b580964c15.png)
 
 # [Project 2: Analyst Data Covid 19 With Time series!](https://github.com/andiainunnajib/Analyst-data-covid-19) 
 * Created a Analysist covid-19 in 2020-2021 (Using python and html)
